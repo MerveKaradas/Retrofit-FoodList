@@ -84,7 +84,6 @@ public class Register extends AppCompatActivity {
 
     private void checkEmailAndProceed(String userNameSurname, String email, String phone, String password, String city, String studentdormitory) {
 
-        // Check if email is already registered
         firebaseAuth = FirebaseAuth.getInstance();
         firestore = FirebaseFirestore.getInstance();
 
