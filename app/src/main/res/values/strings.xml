@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">KYK</string>
+    <string-array name="cities">
+        <item>Ankara</item>
+        <item>İstanbul</item>
+    </string-array>
+
+    <string-array name="ankara_studentdormitory">
+        <item>Yunus Emre Kyk Erkek Öğrenci Yurdu</item>
+        <item>Ankara Hacı Bayram Veli Kyk Erkek Öğrenci Yurdu</item>
+        <item>Başkent Kyk Erkek Öğrenci Yurdu</item>
+        <item>Şerife Bacı Kyk Kız Öğrenci Yurdu</item>
+        <item>Taceddin Veli Kyk Erkek Öğrenci Yurdu</item>
+        <item>Hüseyin Gazi Kyk Erkek Öğrenci Yurdu</item>
+        <item>Seyran Kyk Kız Öğrenci Yurdu</item>
+        <item>Mahmut Nedim Zapçı Kyk Kız Öğrenci Yurdu</item>
+        <item>Emine Şerife Hanım Kyk Kız Öğrenci Yurdu</item>
+        <item>Cebeci Kyk Kız Öğrenci Yurdu</item>
+        <item>Güvenlik Kyk Kız Öğrenci Yurdu</item>
+        <item>Cebeci Kyk Erkek Öğrenci Yurdu</item>
+        <item>Yenişehir Kyk Kız Öğrenci Yurdu</item>
+        <item>Nenehatun Kyk Kız Öğrenci Yurdu</item>
+        <item>Tahsin Banguoğlu Kyk Erkek Öğrenci Yurdu</item>
+        <item>Çubuk Ulubey Kyk Erkek Öğrenci Yurdu</item>
+        <item>Çubuk Fatma Hanım Kyk Kız Öğrenci Yurdu</item>
+        <item>Bağlıca Kyk Kız Öğrenci Yurdu</item>
+        <item>Gölbaşı Şehit Özel Harekatçılar Kyk Kız Öğrenci Yurdu</item>
+        <item>Gölbaşı Kyk Erkek Öğrenci Yurdu</item>
+        <item>Milli İrade Kyk Kız Öğrenci Yurdu</item>
+        <item>Haymana Kyk Kız Öğrenci Yurdu</item>
+        <item>Ankara Atatürk Kyk Kız Öğrenci Yurdu</item>
+        <item>Hafız Mustafa Sümer Kyk Erkek Öğrenci Yurdu</item>
+        <item>Polatlı Kyk Kız ve Erkek Öğrenci Yurdu</item>
+        <item>Şereflikoçhisar Kyk Kız ve Erkek Öğrenci Yurdu</item>
+        <item>Hacı Ömer Sabancı Kyk Kız Öğrenci Yurdu</item>
+        <item>Zübeyde Hanım Kyk Kız Öğrenci Yurdu</item>
+        <item>Gazi Kyk Kız Öğrenci Yurdu</item>
+        <item>Mehmet Akif Kyk Kız Öğrenci Yurdu</item>
+        <item>Beştepe Kyk Kız Öğrenci Yurdu</item>
+    </string-array>
+
+    <string-array name="istanbul_studentdormitory">
+        <item>Kayıt yok!</item>
+    </string-array>
+</resources>

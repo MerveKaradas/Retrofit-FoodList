@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "412074874026",
+    "project_id": "yemeklistesikyk-f12d6",
+    "storage_bucket": "yemeklistesikyk-f12d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412074874026:android:d4c98fda49d265a4c6ecd3",
+        "android_client_info": {
+          "package_name": "com.mervekaradas.kyk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQ7sWsUxkj4L1tODfJJIAcP4veh3_ocpw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
